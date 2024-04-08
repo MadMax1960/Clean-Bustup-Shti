@@ -4,3 +4,9 @@ This repo is shrimply to let people open up the raw screenshots of the Clean Bus
 ![fuk1](fukfaithful.png)
 ![fuk2](fukhyrbid.png)
 ![fuk3](fukmod.png)
+
+# Akihiko
+
+![aki1](akifaithful.png)
+![aki2](akihybrid.png)
+![aki3](akimod.png)
