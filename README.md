@@ -10,3 +10,10 @@ This repo is shrimply to let people open up the raw screenshots of the Clean Bus
 ![aki1](akifaithful.png)
 ![aki2](akihybrid.png)
 ![aki3](akimod.png)
+
+
+# Junpei
+
+![jun1](junfaithful.png)
+![jun2](junhybrid.png)
+![jun3](junmod.png)
